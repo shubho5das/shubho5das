@@ -5,7 +5,7 @@
  
 <br/>
 
-[![MasterHead](readme-graphic-picture-cropped.gif)](https://shubho5das.io)
+[![MasterHead](readme-graphic-picture-cropped-margined.gif)](https://shubho5das.io)
 
 
 <!-- 
