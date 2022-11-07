@@ -15,18 +15,13 @@
 <!-- Contribution Graph -->
 [![Shubho's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shubho5das&&theme=react-dark)](https://github.com/shubho5das)
 
-
-<hr>
-
 <!-- Streak and Total Commits Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gantavyamalviya&theme=blue-green&count_private=true)
-![Gantavya's github stats](https://github-readme-stats.vercel.app/api?username=gantavyamalviya&show_icons=true&hide_border=true&theme=blue-green&count_private=true) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubho5das&theme=blue-green&count_private=true)
+![Shubho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubho5das&show_icons=true&hide_border=true&theme=blue-green&count_private=true) 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gantavyamalviya&layout=compact&theme=blue-green) -->
 <!-- ![Gantavya's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=gantavyamalviya)
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gantavyamalviya&theme=github&count_private=true)  -->
-
-
 
 
 <!--
