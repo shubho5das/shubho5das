@@ -5,7 +5,7 @@
  
 <br/>
 
-[![MasterHead](readme-graphic-picture-cropped-margined.gif)](https://leetcode.com/shubho5das)
+[![MasterHead](readme-graphic-picture-cropped-margined.gif)]()
 
 
 
