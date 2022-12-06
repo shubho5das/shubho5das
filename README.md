@@ -14,7 +14,7 @@
  -->
 
 <!-- Contribution Graph -->
-[![Shubho's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shubho5das&&theme=react-dark)](https://github.com/shubho5das)
+[![Shubho's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shubho5das&&theme=react-dark)](https://github.com/shubho5das/github-readme-activity-graph)
 
 <!-- Streak and Total Commits Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubho5das&theme=blue-green&count_private=true)
